@@ -1,0 +1,27 @@
+----------------------------------------------------------------------
+DRAFT CERTIFICATE FOR DIGITAL EVIDENCE 
+(Under Sec 65B of Indian Evidence Act / Sec 63 of Bharatiya Sakshya Adhiniyam)
+----------------------------------------------------------------------
+
+I, [YOUR NAME], M.Tech (AI) & Cyber Law Scholar, do hereby solemnly affirm:
+
+1. That I am the person in lawful control of the computer system/device 
+   used to process the digital record identified below.
+
+2. TECHNICAL IDENTIFICATION:
+   - FILE NAME: {INSERT_FILE_NAME}
+   - SHA-256 HASH: {INSERT_HASH_FROM_SCRIPT}
+   - SYSTEM OS: {INSERT_OS_FROM_SCRIPT}
+   - TIMESTAMP: {INSERT_TIME_FROM_SCRIPT}
+
+3. That the SHA-256 hash serves as a unique digital fingerprint, 
+   ensuring the integrity and non-tampering of the electronic record.
+
+4. That during the material period, the computer system was operating 
+   properly, and the accuracy of the contents was not affected.
+
+VERIFICATION:
+Verified at [PLACE] on [DATE] that the contents are true to my knowledge.
+
+(Signature)
+----------------------------------------------------------------------
