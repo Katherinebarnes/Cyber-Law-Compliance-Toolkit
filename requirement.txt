@@ -1,0 +1,5 @@
+# Cyber-Law-Compliance-Toolkit Dependencies
+# Install using: pip install -r requirements.txt
+
+Pillow>=10.0.0      # Required for EXIF/Image Metadata extraction
+# Note: hashlib, os, platform, and datetime are part of Python's Standard Library.
