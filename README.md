@@ -2,7 +2,7 @@
 A Python-based tool to generate Section 65B Certificates and validate digital evidence under the Indian IT Act.
 
 # Cyber Law Compliance Toolkit (India)
-Built by an **M.Tech (AI) & Cyber Law Scholar** to bridge the gap between engineering and legal compliance.
+Built to bridge the gap between engineering and legal compliance.
 
 ## Features
 - **Digital Evidence Hashing:** Generates SHA-256 hashes to ensure data integrity.
